@@ -48,7 +48,6 @@ namespace exo02
             int[] tab = new int[nbPoste];
             Affichage(Insertion(tab));
             PrintStars(tab);
-            Console.WriteLine("Ceci est un bug");
             Console.ReadLine();
             
         }
