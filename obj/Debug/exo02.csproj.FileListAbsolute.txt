@@ -1,0 +1,7 @@
+D:\Dev\tp09\exo02\obj\Debug\exo02.csproj.CoreCompileInputs.cache
+D:\Dev\tp09\exo02\bin\Debug\exo02.exe.config
+D:\Dev\tp09\exo02\bin\Debug\exo02.exe
+D:\Dev\tp09\exo02\bin\Debug\exo02.pdb
+D:\Dev\tp09\exo02\obj\Debug\exo02.exe
+D:\Dev\tp09\exo02\obj\Debug\exo02.pdb
+D:\Dev\tp09\exo02\obj\Debug\exo02.csprojAssemblyReference.cache
